@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/inal-kara-1844ba268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inal kara" height="30" width="40" /></a>
 <a href="https://instagram.com/_kar4ik._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kar4ik._" height="30" width="40" /></a>
 <a href="https://medium.com/@morfiux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@morfiux" height="30" width="40" /></a>
-<a href="https://discord.gg/8223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8223" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1071447173960572930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8223" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
