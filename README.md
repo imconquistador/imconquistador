@@ -1,4 +1,4 @@
-![logo](https://github.com/imconquistador/imconquistador/blob/main/3840x1200-px-wallpaper-thumb.jpg)
+![logo](https://github.com/imconquistador/imconquistador/blob/main/vecteezy_internet-technology-background-blue-hd_20071644_184.jpg)
 
 <h1 align="center">Hi 👋, I'm Inal Kara</h1>
 <h3 align="center">A passionate Fullstack Developer from Azerbaijan</h3>
