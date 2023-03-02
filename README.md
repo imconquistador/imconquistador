@@ -1,4 +1,4 @@
-![logo](https://github.com/imconquistador/Morfiux/blob/main/3d-render-software-testing-concept-with-computer_107791-16638.png)
+![logo](https://github.com/imconquistador/imconquistador/blob/main/panorama-dark-violet-technology-background-speed-sound-wave-concept-design-free-space-text-put-vector-illustration_34926-871.png)
 
 <h1 align="center">Hi 👋, I'm Inal Kara</h1>
 <h3 align="center">A passionate Fullstack Developer from Azerbaijan</h3>
